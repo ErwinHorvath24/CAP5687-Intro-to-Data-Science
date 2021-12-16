@@ -8,9 +8,9 @@ For this assignment you will be analyzing the College data frame included in the
 
 3.	[6%] Fit a simple linear regression model to predict Private from the most statistically important feature you identified in question 2. Print a summary of the model output to the console. Is the feature from question 2 still statistically important, and how do you know? 
 
-![](Images/Q3.png)
-
 4.	[10%] Visualize the simple linear regression model from question 3 on a scatterplot. 
+
+![](Images/Q4.png)
 
 5.	[10%] Use the simple linear regression model from question 3 to predict classes for the training data. Add these predictions to the data frame College.recoded from question 1. Print a confusion matrix and an estimate of classification training accuracy to the console. 
 
