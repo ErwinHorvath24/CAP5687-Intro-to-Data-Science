@@ -6,14 +6,14 @@ This course provides a comprehensive introduction to the tools and analysis work
 
 ## Topics: 
 
-Fundamentals of data science
-Introduction to R and data visualization
-Data transformations
-Exploratory data analysis
-Linear regression
-Classification with logistic regression
-Model selection, feature selection, and regularization
-Unsupervised learning
+- Fundamentals of data science
+- Introduction to R and data visualization
+- Data transformations
+- Exploratory data analysis
+- Linear regression
+- Classification with logistic regression
+- Model selection, feature selection, and regularization
+- Unsupervised learning
 
 ## Assignments: 
 
