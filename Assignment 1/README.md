@@ -4,7 +4,7 @@ For this assignment, you will be analyzing the diamonds data frame included in t
 
 1.	[10%] Generate a jittered scatterplot of diamond price as a function of diamond weight that is broken into five sub-panels across two rows, in which each sub-panel represents a different cut quality. Set the color of the points to gray with a transparency alpha value of 0.1, and the background to white rather than the default color of gray.
 
-![](Graphical_Results/Q1_Result.png)
+![](Graphical_Results/Q1_Result.png, align=center)
 
 2.	[5%] What is a rug plot, and what geometric layer (function) in ggplot2 can be used to generate one?
 
